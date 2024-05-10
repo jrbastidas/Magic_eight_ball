@@ -1,0 +1,10 @@
+G:\My Drive\SAIT COURSES\PROGRAMING_2_CPRG211-G\Repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csproj.AssemblyReference.cache
+G:\My Drive\SAIT COURSES\PROGRAMING_2_CPRG211-G\Repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.MagicEightBall.resources
+G:\My Drive\SAIT COURSES\PROGRAMING_2_CPRG211-G\Repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.Properties.Resources.resources
+G:\My Drive\SAIT COURSES\PROGRAMING_2_CPRG211-G\Repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csproj.GenerateResource.cache
+G:\My Drive\SAIT COURSES\PROGRAMING_2_CPRG211-G\Repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csproj.CoreCompileInputs.cache
+G:\My Drive\SAIT COURSES\PROGRAMING_2_CPRG211-G\Repos\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+G:\My Drive\SAIT COURSES\PROGRAMING_2_CPRG211-G\Repos\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe
+G:\My Drive\SAIT COURSES\PROGRAMING_2_CPRG211-G\Repos\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.pdb
+G:\My Drive\SAIT COURSES\PROGRAMING_2_CPRG211-G\Repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.exe
+G:\My Drive\SAIT COURSES\PROGRAMING_2_CPRG211-G\Repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.pdb
